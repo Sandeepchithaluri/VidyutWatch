@@ -1,0 +1,11 @@
+{
+  "consumer_name": null,
+  "meter_id": "1412",
+  "units_consumed": 95.0,
+  "energy_charges": 324.4,
+  "fixed_charges": 90.0,
+  "electricity_duty": 5.7,
+  "total_amount": 470.0,
+  "billing_date": "07/03/2024",
+  "billing_period": "01-04-24"
+}

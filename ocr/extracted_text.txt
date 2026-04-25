@@ -1,0 +1,57 @@
+STS
+03
+1507
+Pv:05/03/24 01
+1412
+Units:
+95
+Dajs: 29
+PREVIO
+PRESENT
+678
+Recorded HDI
+2.26
+Energy
+Charges:
+324. 40
+0 -9
+Fixed
+Cust
+Charges
+90
+Electrici Duty:
+5.70
+69.83
+Interest
+0.89
+DU
+0.63
+Surcharges
+0.98
+FSA/FCA Charges
+0.00
+CKARGE
+Interest On CD
+0.89
+Losa/Gain
+0.05
+AN =
+480
+60
+SGAIN
+AMOUNT
+EARS
+Arrears:-
+As On
+51-03-24:
+0.00
+01-04
+After 01-04-24:
+0.00
+AL AMOUNT
+Total Due
+470,00
+A NEE
+Haleractice
+07/Jav
+and
