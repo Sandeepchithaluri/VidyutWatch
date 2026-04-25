@@ -1,0 +1,7 @@
+.env
+*.env
+__pycache__/
+*.pyc
+rag/chroma_store/
+temp_*
+eval/eval_logs.csv
